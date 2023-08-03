@@ -8,4 +8,6 @@ But , it is not possible for any devops engineer to send report daily to manager
 
 Therefore to automate the task to Create an AWS resource usage report using shell scripting involves several steps, including using AWS CLI commands to gather information about resources and then processing and formatting that data into a report.
 
+we send this script to manager with login credentials and ask them to run the script and access the information.
+
 
