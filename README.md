@@ -1,5 +1,5 @@
 AWS project using shell scripting...
-This script will report the AWS resource usage
+This script will report the AWS resource usage.
 
 problem statement:- Suppose there is an organization xyz uses AWS resources like EC2, S3, LAMBDA, IAM Etc...
 Manager wants the daily AWS resource usage report at 6pm .
